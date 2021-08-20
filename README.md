@@ -10,13 +10,15 @@ Corpus: 1600 news articles from two collections of labeled articles:
 
 | Model  | Accuracy | Precision | Recall | F2-Score | Interpretable |
 |---| --- | --- | --- | --- | --- |
-| `MNB` | 0.84 | **0.92** | 0.62 | 0.66 & Yes |
+| `MNB` | 0.84 | **0.92** | 0.62 | 0.66 | Yes |
 | `Longformer (no pre-training)` | **0.87** | 0.76 | 0.95 | 0.90 | No |
 | `Longformer (pre-trained)` | 0.86 | 0.73 | **0.98** | **0.92** | No |
 | `Longformer+ProSeNet` | **0.87** | 0.78 | 0.91 | 0.88 | Yes |
 
 # BibTeX entry and citation info
 
+---
+---
 @inproceedings{delaForet2021,
    author = {Frode de la Foret, P. and Ruseti, S. and Sandescu, C. and Dascalu, M. and Travadel, S.},
    title = {Yggdrasil - Explainable Identification of Cybersecurity Vulnerabilities from News Articles},

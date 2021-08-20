@@ -1,6 +1,6 @@
 # InterpRetable Vulnerability IdeNtification (IRVIN)
 
-This is the public repository of the study in which we introduce an interpretable approach to the subject of cyberthreat early detection. In particular, an interpretable classification is performed using the Longformer architecture alongside prototypes from the ProSeNet structure, after performing a preliminary analysis on the Transformer’s encoding capabilities. The best interpretable architecture achieves an 88\% F2-Score, arguing for the system's applicability in real-life monitoring conditions of OSINT data.
+This is the public repository of the study in which we introduce an interpretable approach for cyberthreat early detection. In particular, an interpretable classification is performed using the Longformer architecture alongside prototypes from the ProSeNet structure, after performing a preliminary analysis on the Transformer’s encoding capabilities. The best interpretable architecture achieves an 88\% F2-Score, arguing for the system's applicability in real-life monitoring conditions of OSINT data.
 
 # Performance
 

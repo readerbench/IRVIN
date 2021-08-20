@@ -13,7 +13,12 @@ Corpus: 1600 news articles from two collections of labeled articles:
 | MNB | 0.84 | **0.92** | 0.62 | 0.66 & Yes |
 | Longformer (no pre-training) | **0.87** | 0.76 | 0.95 | 0.90 | No |
 | Longformer (pre-trained) | 0.86 | 0.73 | **0.98** | **0.92** | No |
-| Longformer+ProSeNet | **0.87** | 0.78 | 0.91 | 0.88 |Yes |
+| Longformer+ProSeNet | **0.87** | 0.78 | 0.91 | 0.88 | Yes |
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
 
 # BibTeX entry and citation info
 

@@ -8,17 +8,12 @@ Corpus: 1600 news articles from two collections of labeled articles:
 * Iorga, D., Corlatescu, D.-G., Grigorescu, O., Sandescu, C., Dascalu, M., & Rughinis, R. (2020). Early Detection of Vulnerabilities from News Websites using Machine Learning Models. In 19th RoEduNet Conference: Networking in Education and Research Bucharet, Romania (Online): IEEE.
 * Iorga, D., Corlatescu, D.-G., Grigorescu, O., C., S., Dascalu, M., & Rughinis, R. (2021). Yggdrasil – Early Detection of Cybernetic Vulnerabilities from Twitter. In 23rd Conference on Control Systems and Computer Science. Bucharest, Romania (Online): IEEE.
 
-|   | Accuracy | Precision | Recall | F2-Score | Interpretable |
-|___| ________ | _________ | ______ | ________ | _____________ |
-| MNB | 0.84 | **0.92** | 0.62 | 0.66 & Yes |
-| Longformer (no pre-training) | **0.87** | 0.76 | 0.95 | 0.90 | No |
-| Longformer (pre-trained) | 0.86 | 0.73 | **0.98** | **0.92** | No |
-| Longformer+ProSeNet | **0.87** | 0.78 | 0.91 | 0.88 | Yes |
-
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| Model  | Accuracy | Precision | Recall | F2-Score | Interpretable |
+|---| --- | --- | --- | --- | --- |
+| `MNB` | 0.84 | **0.92** | 0.62 | 0.66 & Yes |
+| `Longformer (no pre-training)` | **0.87** | 0.76 | 0.95 | 0.90 | No |
+| `Longformer (pre-trained)` | 0.86 | 0.73 | **0.98** | **0.92** | No |
+| `Longformer+ProSeNet` | **0.87** | 0.78 | 0.91 | 0.88 | Yes |
 
 # BibTeX entry and citation info
 

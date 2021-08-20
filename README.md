@@ -18,7 +18,7 @@ Corpus: 1600 news articles from two collections of labeled articles:
 # BibTeX entry and citation info
 
 @inproceedings{delaForet2021,
-   author = {Frode de la Foret, P. and Ruseti, S. and Sandescu, C. and Dascalu, M. and Travadel, S.},  
+&nbsp;&nbsp;author = {Frode de la Foret, P. and Ruseti, S. and Sandescu, C. and Dascalu, M. and Travadel, S.},  
    title = {Yggdrasil - Explainable Identification of Cybersecurity Vulnerabilities from News Articles},  
    booktitle = {Int. Conf. on Recent Advances in Natural Language Processing (RANLP 2021)},  
    publisher = {ACL},  
